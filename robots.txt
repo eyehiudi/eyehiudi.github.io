@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://eyehiudi.github.io/Erh/sitemap_index.txt
+Sitemap: https://eyehiudi.github.io/RYB/sitemap_index.txt
+Sitemap: https://eyehiudi.github.io/XoI/sitemap_index.txt
+Sitemap: https://eyehiudi.github.io/rMy/sitemap_index.txt
